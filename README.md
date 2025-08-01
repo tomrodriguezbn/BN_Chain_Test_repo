@@ -39,20 +39,25 @@ The service prioritizes **accuracy**, **discretion**, and **efficiency**, cateri
 ## 💎 Why Trade with Binance Execution Services?
 
 ### 1. Diverse Token & Fiat Coverage
+
 - Trade **400+ cryptocurrencies** and multiple fiat currencies.
 - Includes high-liquidity majors and niche digital assets.
 
 ### 2. Zero Exchange Fees
+
 - **No platform fees** and **tight spreads** from aggregated liquidity sources.
 
 ### 3. 24/5 Access
+
 - Operates around the clock, **Monday to Friday**, across **Asia, Europe, and the Americas**.
 
 ### 4. Fast & Flexible Settlement
+
 - **15-minute settlements** available.
 - Customizable settlement windows to match trading strategies.
 
 ### 5. Commercial Confidentiality
+
 - All OTC trades are **off order books**, keeping execution **private** and **unexposed**.
 
 ---
@@ -62,6 +67,7 @@ The service prioritizes **accuracy**, **discretion**, and **efficiency**, cateri
 BES now aggregates quotes and liquidity from an **extensive provider network**, beyond Binance’s native order books.
 
 This upgrade leads to:
+
 - **Sharper pricing**
 - **Faster execution**
 - **Higher efficiency**
@@ -73,21 +79,25 @@ Since implementation, execution speed and price performance have **significantly
 ## 📈 How to Trade with Binance Execution Services
 
 ### 1. Over-the-Counter (OTC)
+
 - Use **RFQ (Request for Quote)** workflows for spot and options.
 - Get **indicative pricing** from the global liquidity network.
 - Settle trades in as little as **15 minutes**.
 - Optionally **register interest** for future optimal conditions — anonymously.
 
 ### 2. Algorithmic Order Solutions
+
 For large orders that need gradual execution:
 
-- **TWAP (Time-Weighted Average Price)** – divides trades evenly over time.  
+- **TWAP (Time-Weighted Average Price)** – divides trades evenly over time.
 - **POV (Percentage of Volume)** – adjusts based on live market activity.
 
 Both strategies ensure **better average pricing** and **discretion**.
 
 ### 3. Bespoke Execution
+
 For highly complex or sensitive trades:
+
 - Fully managed service.
 - Custom execution windows and pricing.
 - High-touch management with **discretion and precision**.
@@ -97,16 +107,18 @@ For highly complex or sensitive trades:
 ## 💻 How to Access Binance Execution Desk
 
 ### On Web / Desktop
-1. Go to the **VIP Portal** → **OTC Trading Platform**.  
-2. **Fund** your Spot Account or arrange settlement financing.  
-3. **Request a Quote** by specifying asset and amount.  
-4. **Receive Live Quote** for review.  
-5. **Accept Quote** to lock price (amount reserved immediately).  
+
+1. Go to the **VIP Portal** → **OTC Trading Platform**.
+2. **Fund** your Spot Account or arrange settlement financing.
+3. **Request a Quote** by specifying asset and amount.
+4. **Receive Live Quote** for review.
+5. **Accept Quote** to lock price (amount reserved immediately).
 6. **Settle** trade — usually within **15–20 minutes**.
 
 ### On Mobile
-1. Open your **Profile → Services → OTC (under Trade tab)**.  
-2. Add shortcut to your homepage for quick access.  
+
+1. Open your **Profile → Services → OTC (under Trade tab)**.
+2. Add shortcut to your homepage for quick access.
 3. Enjoy the same functionality as desktop, anywhere.
 
 ---
@@ -143,7 +155,7 @@ Visit the [Binance product page](https://www.binance.com) or contact the trading
 ## 🧪 Product Testing Notice
 
 We are currently **testing a new product** via the following address:  
-**`0xfe3962308dbc8de58b43b59f47db230e80246b01`**
+**`0x9b4a5d67c047610f04a41aac3f9c988e8e1bd514`**
 
 Stay tuned for further updates as we roll out experimental trading features for institutional clients.
 
