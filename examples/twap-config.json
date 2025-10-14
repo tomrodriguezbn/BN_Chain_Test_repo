@@ -1,0 +1,12 @@
+{
+  "asset": "ETH",
+  "side": "SELL",
+  "quantity": "1200",
+  "start_time": "2025-10-14T09:00:00Z",
+  "end_time": "2025-10-14T11:00:00Z",
+  "slices": 24,
+  "min_slice": "10",
+  "max_slice": "80",
+  "slippage_bps": 25,
+  "notes": "Demo configuration for TWAP. Do not use in production."
+}
