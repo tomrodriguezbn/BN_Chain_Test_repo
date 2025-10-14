@@ -1,0 +1,8 @@
+{
+  "asset": "BTC",
+  "side": "BUY",
+  "notional": "250000",
+  "settlement_window_minutes": 20,
+  "confidential": true,
+  "notes": "Illustrative RFQ payload for documentation only."
+}
